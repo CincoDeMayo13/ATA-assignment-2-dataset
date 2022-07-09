@@ -1,0 +1,38 @@
+<annotation>
+	<folder>apple dataset</folder>
+	<filename>apple-6.jpg</filename>
+	<path>C:\Users\Trumen\Downloads\apple dataset\apple-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>476</ymin>
+			<xmax>886</xmax>
+			<ymax>1273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>323</ymin>
+			<xmax>1494</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+</annotation>

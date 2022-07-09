@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple dataset</folder>
+	<filename>apple-50.jpg</filename>
+	<path>C:\Users\Trumen\Downloads\apple dataset\apple-50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>100</ymin>
+			<xmax>1354</xmax>
+			<ymax>1412</ymax>
+		</bndbox>
+	</object>
+</annotation>
