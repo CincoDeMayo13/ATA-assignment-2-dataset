@@ -1,0 +1,26 @@
+<annotation>
+	<folder>microphone</folder>
+	<filename>microphone-1.jpeg</filename>
+	<path>C:\Users\geoff\Desktop\advanced topics in AI\assignment 2\images\microphone\microphone-1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2670</xmin>
+			<ymin>376</ymin>
+			<xmax>3997</xmax>
+			<ymax>2773</ymax>
+		</bndbox>
+	</object>
+</annotation>

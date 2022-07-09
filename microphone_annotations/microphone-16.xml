@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bfad6802-07f1-4126-a4a9-bf1f8360a5cf</folder>
+	<filename>microphone-16.jpg</filename>
+	<path>C:\Users\geoff\Downloads\bfad6802-07f1-4126-a4a9-bf1f8360a5cf\microphone-16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2882</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1244</xmin>
+			<ymin>48</ymin>
+			<xmax>1798</xmax>
+			<ymax>1858</ymax>
+		</bndbox>
+	</object>
+</annotation>
